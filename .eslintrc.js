@@ -28,6 +28,7 @@ module.exports = {
     'no-use-before-define': 'off',
     '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/explicit-module-boundary-types': 'off',
+    'camelcase': 'off',
     'import/extensions': [
       'error',
       'ignorePackages',
